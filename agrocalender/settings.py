@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'plants',
     'users',
     'plantings',
+    'calender',
 ]
 
 MIDDLEWARE = [
